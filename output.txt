@@ -1,0 +1,4 @@
+Marks sub1: 23.000000
+Marks sub2: 33.000000
+Marks sub3: 43.000000
+Avg marks: 33.000000
